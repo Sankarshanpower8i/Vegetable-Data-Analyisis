@@ -32,16 +32,14 @@ The project utilizes data from various sources:
 ### Data Preprocessing 🧹
 - In the preprocessing phase, data is cleaned, missing values are handled, and exploratory data analysis is performed. The Jupyter Notebook `Preprocessing_EDA.ipynb` includes the cleaning and visualization code.
 
-### Machine Learning Modeling 🤖
-- The machine learning model is built using Scikit-learn and is implemented in the Jupyter Notebook `ML_Models.ipynb`. This model predicts the consultation fee for doctors based on the provided attributes.
 
 ## DATA 📊
 
 ### Raw Data 📂
-- The collected data is stored in `raw_practo.csv`.
+- The collected data is stored in `raw_vegg.csv`.
 
 ### Cleaned Data 🧼
-- The cleaned data is saved in `clean_practo.csv`.
+- The cleaned data is saved in `clean_vegg.csv`.
 
 
 ##  <img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="48" height="48"> **User's Manual**
