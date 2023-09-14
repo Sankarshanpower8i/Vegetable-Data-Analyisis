@@ -1,4 +1,7 @@
-# Project Name: Vegetable Market Analysis - Data Analysis
+# Vegetable Market Analysis 
+
+![title](https://github.com/Sankarshanpower8i/Job-Analytics-Instahyre-/assets/133600711/7a56e757-b170-4c0f-ac6a-e6d8ac691728)
+
 
 ## Introduction
 
@@ -8,8 +11,11 @@ This project focuses on analyzing vegetable market data from the Noida Vegetable
 
 1. Analyzing vegetable price trends and identifying seasonal vegetables.
 2. Determining the affordability of vegetable baskets for low, middle, and high-income families.
-3. Analyzing price changes over time for each income group.
-4. Conducting a case study on the quick commerce vegetable business in Delhi.
+ ![income](https://github.com/Sankarshanpower8i/Job-Analytics-Instahyre-/assets/133600711/56b892bc-035a-4e65-ade6-b782667966b0)
+
+
+4. Analyzing price changes over time for each income group.
+5. Conducting a case study on the quick commerce vegetable business in Delhi.
 
 ## Data Description
 
@@ -35,6 +41,8 @@ The project followed these steps:
 
 - Seasonal price patterns with the lowest prices in April and the highest in February.
 - Similar vegetable prices between Noida and nearby markets, indicating consistent pricing trends.
+  ![price similer](https://github.com/Sankarshanpower8i/Job-Analytics-Instahyre-/assets/133600711/52d53cbc-b440-48da-b79c-512be2a58933)
+
 - Different spending power on vegetables for low, middle, and high-income families.
 - Fluctuations in vegetable prices impact the affordability of different income groups.
 - A case study reveals the market size, competition, challenges, success factors, and technology integration for the quick commerce vegetable business in Delhi.
