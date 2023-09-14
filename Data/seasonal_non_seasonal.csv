@@ -1,0 +1,55 @@
+Vegetable_Name,"max( Market_Price)",min(Market_Price),avg(Market_Price),"((max( Market_Price)- min(Market_Price))/min(Market_Price))*100",type
+Colocasia,28,22,25.1588,27.2727,non-seasional
+"Shallot (Pearl Onion)",37,29,33.1029,27.5862,non-seasional
+"Sweet Potato",46,36,39.3324,27.7778,non-seasional
+"Onion Green",45,35,40.3353,28.5714,non-seasional
+Mushroom,95,70,82.0912,35.7143,non-seasional
+Amla,70,50,54.4412,40.0000,non-seasional
+"Sorrel Leaves",14,10,11.4029,40.0000,non-seasional
+"Elephant Yam",32,22,26.9824,45.4545,non-seasional
+Pumpkin,30,20,24.9265,50.0000,non-seasional
+Spinach,15,10,12.7206,50.0000,non-seasional
+Ginger,46,29,39.7059,58.6207,non-seasional
+Corn,35,22,25.9029,59.0909,non-seasional
+Capsicum,48,30,36.9882,60.0000,non-seasional
+"Colocasia Leaves",16,10,12.7853,60.0000,non-seasional
+"Ridge Gourd",36,22,28.1412,63.6364,non-seasional
+"Mustard Leaves",20,12,16.1824,66.6667,non-seasional
+"Banana Flower",20,12,16.2529,66.6667,non-seasional
+"Bottle Gourd",30,18,24.4647,66.6667,non-seasional
+"Ivy Gourd",37,22,27.0971,68.1818,non-seasional
+"Bitter Gourd",41,24,32.3735,70.8333,non-seasional
+"Ash gourd",28,16,22.4559,75.0000,non-seasional
+"Curry Leaves",44,25,32.4412,76.0000,non-seasional
+Brinjal,32,17,25.9971,88.2353,non-seasional
+Potato,38,20,28.4029,90.0000,non-seasional
+Radish,35,18,24.9765,94.4444,non-seasional
+Cabbage,30,15,23.6235,100.0000,seasional
+"Coriander Leaves",12,6,9.6912,100.0000,seasional
+Cauliflower,45,22,30.7529,104.5455,seasional
+"Green Peas",92,44,69.3412,109.0909,seasional
+"Fenugreek Leaves",15,7,10.2500,114.2857,seasional
+"Baby Corn",75,35,57.9176,114.2857,seasional
+"Butter Beans",90,40,65.8000,125.0000,seasional
+"Amaranth Leaves",18,8,11.4941,125.0000,seasional
+"Dill Leaves",18,8,12.6588,125.0000,seasional
+"Snake Gourd",36,16,26.1265,125.0000,seasional
+"Green Chilli",60,26,37.9588,130.7692,seasional
+Cucumber,28,12,18.7824,133.3333,seasional
+"Mint Leaves",10,4,6.1088,150.0000,seasional
+Coconut,38,15,29.2235,153.3333,seasional
+"Onion Big",42,16,26.3147,162.5000,seasional
+Beetroot,54,20,36.7176,170.0000,seasional
+"Cluster beans",82,30,44.6235,173.3333,seasional
+Carrot,74,25,46.9588,196.0000,seasional
+"Broad Beans",66,22,38.5382,200.0000,seasional
+"Raw Banana (Plantain)",12,4,8.1000,200.0000,seasional
+"Brinjal (Big)",65,20,31.1706,225.0000,seasional
+"Ladies Finger",59,18,30.4029,227.7778,seasional
+Garlic,111,30,61.9765,270.0000,seasional
+"Lemon (Lime)",138,35,55.7235,294.2857,seasional
+"French Beans",83,20,46.6059,315.0000,seasional
+"Onion Small",100,24,39.3500,316.6667,seasional
+Drumsticks,150,30,74.0000,400.0000,seasional
+"Mango Raw",110,18,69.8000,511.1111,seasional
+Tomato,94,10,28.1882,840.0000,seasional
