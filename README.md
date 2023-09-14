@@ -24,6 +24,33 @@ The project utilizes data from various sources:
 - Noida Vegetable Market: Data includes monthly vegetable prices, market demand, and seasonal variations.
 - Nearby Markets in Delhi: Comparative data for price analysis.
 - Income Group Data: Information on low, middle, and high-income families and their spending on vegetables.
+## Python Files 🐍
+
+### Data Extraction 🌐
+- The data extraction phase involves collecting raw doctor information from the online medical consultancy booking site Practo. This is achieved using the Jupyter Notebook `Scrapping code.ipynb`.
+
+### Data Preprocessing 🧹
+- In the preprocessing phase, data is cleaned, missing values are handled, and exploratory data analysis is performed. The Jupyter Notebook `Preprocessing_EDA.ipynb` includes the cleaning and visualization code.
+
+### Machine Learning Modeling 🤖
+- The machine learning model is built using Scikit-learn and is implemented in the Jupyter Notebook `ML_Models.ipynb`. This model predicts the consultation fee for doctors based on the provided attributes.
+
+## DATA 📊
+
+### Raw Data 📂
+- The collected data is stored in `raw_practo.csv`.
+
+### Cleaned Data 🧼
+- The cleaned data is saved in `clean_practo.csv`.
+
+
+##  <img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="48" height="48"> **User's Manual**
+
+| Files/Folder| Description |
+| ------------- | ------------- |
+| **Data** | This folder provides scrapped data in csv format |
+| **Python Files** | This contains the .ipynb file of the analysis for Data Scraping, Data cleaning, EDA and ML Models.  |
+| **Web Application** | This contains the .HTML, app.py and model.pkl file for User Interface  |
 
 ## Methodology
 
